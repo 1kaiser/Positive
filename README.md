@@ -12,7 +12,7 @@ Many apps can now export to Markdown files, and that's a good starting point and
 
 here the data has been collected to markdown format using [**Puppeteer**][3] to be viewable as interactable(Able to be interacted with) **graphs** using [**Obsidian**][1]
  <p align="center">
- <img src="https://i.imgur.com/Nn8GQqB.png">
+ <img src="https://i.imgur.com/tEGfovr.png">
   </p>
   
   
