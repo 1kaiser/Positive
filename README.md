@@ -10,7 +10,7 @@ If you already have a folder of Markdown files, that would be perfect and nothin
 Many apps can now export to Markdown files, and that's a good starting point and should probably work out of the box.
 
 
-## <div align="center">Vault Data is in [markdown zipped][2]</div>
+## <div align="center">Vault Data is in [markdown zipped folder][2]</div>
 [2]: https://github.com/1kaiser/Positive/blob/main/20220313.zip
   containing lists of files in Markdown files format
 
